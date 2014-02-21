@@ -1,4 +1,6 @@
-#Laboratorium 2 — Klasy - wstęp
+#Laboratorium 2
+> Klasy - wstęp
+
 ##Klasa `Array`
 1. Stwórz klasę `Array`, pozwalającą przechowywać dowolną liczbę (zdefiniowaną przy tworzeniu obiektu klasy) zmiennych typu `int`. Pamiętaj o korzystaniu z sekcji klasy `private` i `public`. Klasa powinna posiadać zmienną całkowitą zawierającą informacje o rozmiarze obiektu (licznik elementów w tablicy).2. Utwórz funkcje: **zerującą tablicę**, umożliwiającą **wpisywanie** oraz **wypisywanie** elementów tablicy. Zapewnij zabezpieczenie przed wyjściem poza zakres tablicy. Postaraj się zaimplementować wczytywanie danych strumieniowo (format CSV).5. Zaproponuj funkcję sortującą elementy w tablicy rosnąco. Możesz użyć sortowania bąbelkowego. Jest proste do bólu i beznadziejnie powolne ale dla niewielkich tablic nikt nie zobaczy różnicy.
 
