@@ -1,3 +1,7 @@
+Najpierw stwórz strukturę z lokalizacji (przypomnienie struktur).
+
+
+
 #Laboratorium 2
 > Klasy - wstęp
 
