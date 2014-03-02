@@ -1,2 +1,2 @@
 all:
-	cc -lstdc++ -Wall *.cc -o lab2
+	cc -lstdc++ -Wall *.cpp -o lab2
